@@ -16,6 +16,9 @@ Desarrollar una API para explorar el mundo de Disney, la cual permitirá conocer
 ### PUERTO APP ###
 La aplicación esta corriendo por el puerto: 8084
 
+### CREAR CARPETA UPLOAD ###
+Se debe crear una carpeta llamada uploads en la raíz del proyecto, así mismo como está la carpeta postman, en la carpeta uploads se guardarán las imágenes de los characters y de movies.
+
 ### DOCUMENTACION APIs: ###
 La Api se encuentra documentada en Postman, el archivo para importar que contiene los endpoint para realizar las pruebas se encuentra la raiz del proyecto en la carpeta postman.
 
